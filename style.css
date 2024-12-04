@@ -265,10 +265,11 @@ height: 11.2rem;
         gap: 5rem;
         display: flex;
         justify-content: space-between;
+        /* height: 100rem; */
     }
     .image_7{
         width: 30rem;
-        height: 20rem;
+        height: 10rem;
     }
     
    
